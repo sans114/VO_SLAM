@@ -1,0 +1,1 @@
+g++  -std=c++11 -march=native -O3 -O3 -DNDEBUG  -rdynamic CMakeFiles/vo.dir/hello_slam.cpp.o  -o ../../bin/vo -lvo_slam 
