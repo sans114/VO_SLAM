@@ -1,7 +1,0 @@
-/home/xbw/vo_slam/build/CMakeFiles/rebuild_cache.dir
-/home/xbw/vo_slam/build/CMakeFiles/edit_cache.dir
-/home/xbw/vo_slam/build/src/CMakeFiles/rebuild_cache.dir
-/home/xbw/vo_slam/build/src/CMakeFiles/edit_cache.dir
-/home/xbw/vo_slam/build/test/CMakeFiles/rebuild_cache.dir
-/home/xbw/vo_slam/build/test/CMakeFiles/hello_slam.dir
-/home/xbw/vo_slam/build/test/CMakeFiles/edit_cache.dir
